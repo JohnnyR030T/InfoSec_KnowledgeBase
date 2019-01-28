@@ -1,5 +1,5 @@
 # Network Infrastructure
 
-- [Routing and Switching](./RoutingAndSwitching/index.md)
+- [Routing and Switching](./Routing_And_Switching/index.md)
 - [Wireless](./Wireless/index.md)
 - [Network Storage](./NetworkStorage/index.md)
