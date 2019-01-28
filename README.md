@@ -13,3 +13,5 @@ A KnowledgeBase for CTF and Pentesting
 - [Controls](./Controls/index.md)
 
 - [Network Infrastructure](./NetworkInfrastructure/index.md)
+
+- [Kali Linux Tools](./KaliLinuxTools/index.md)
