@@ -1,79 +1,15 @@
-# InfoSec_KnowledgeBase
+# JohnnyR030T InfoSec KnowledgeBase
+
 A KnowledgeBase for CTF and Pentesting
 
+## Table of Contents
 
-- Infrastructure
-  - Blue
-  - Red
+- [Infrastructure](./Infrastructure/index.md)
 
-- Recon
-  - Network
-  - OSINT
-  - Web
+- [Recon](./Recon/index.md)
 
-- Post-Exploitation
-  - AWS
-    - C2
-    - Collection
-    - CredentialAccess
-    - DefenseEvasion
-    - Discovery
-    - Execution
-    - Exfiltration
-    - LateralMovement
-    - Persistence
-    - PrivilegeEscalation
+- [Post-Exploitation](./Post-Exploitation/index.md)
 
-  - Azure
-    - C2
-    - Collection
-    - CredentialAccess
-    - DefenseEvasion
-    - Discovery
-    - Execution
-    - Exfiltration
-    - LateralMovement
-    - Persistence
-    - PrivilegeEscalation
-  - Linux
-    - C2
-    - Collection
-    - CredentialAccess
-    - DefenseEvasion
-    - Discovery
-    - Execution
-    - Exfiltration
-    - LateralMovement
-    - Persistence
-    - PrivilegeEscalation
-  - macOS
-    - C2
-    - Collection
-    - CredentialAccess
-    - DefenseEvasion
-    - Discovery
-    - Execution
-    - Exfiltration
-    - LateralMovement
-    - Persistence
-    - PrivilegeEscalation
-  - Windows
-    - C2
-    - Collection
-    - CredentialAccess
-    - DefenseEvasion
-    - Discovery
-    - Execution
-    - Exfiltration
-    - LateralMovement
-    - Persistence
-    - PrivilegeEscalation
+- [Controls](./Controls/index.md)
 
-  - Controls
-    - Windows
-    - Linux
-    - macOS
-  - Network Infrastructure
-    - Routing and Switching
-    - Wireless
-    - Network Storage
+- [Network Infrastructure](./NetworkInfrastructure/index.md)
